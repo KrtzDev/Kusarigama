@@ -1,1 +1,3 @@
-# Kusarigama
+# Kusarigama #
+
+Gamedev UBT
